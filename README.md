@@ -13,8 +13,8 @@ python_crash_course/
     chapter_01/
       concepts.md
       exercises/
-        exercise_01_01_python_org.md
-        exercise_01_02_hello_world_typos.py
+        python_org.md
+        hello_world_typos.py
 ```
 
 ## How to Study
